@@ -1,0 +1,2 @@
+# python
+study ai
